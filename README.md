@@ -1,5 +1,3 @@
-Here is the updated README file incorporating the new SQL insights. The focus remains strictly on business outcomes, actionable data, and clear metrics.
-
 ---
 
 # Ajio Fashion Insight BI
