@@ -57,11 +57,10 @@ Ajio Fashion Insight BI is a comprehensive analytics project designed to monitor
 
 ## 7. Dashboard Previews
 
-**Visual Dashboards:**
-
 * **Women's Collection Insights:**
+![Women](Dashboards/2.%20Details(Women).jpg)
 * **Men's Collection Insights:**
-
+![Men](Dashboards/3.%20Details%20(Men).jpg)
 
 ## 8. Conclusion
 
@@ -69,8 +68,7 @@ By transforming raw data into visual KPIs and utilizing SQL for granular tiering
 
 ## 9. Author & Contact
 
-* **Author:** [Your Name]
+* **Author:** [Anupam Adak]
 * **Role:** Data Analyst
-* **Email:** [Your Email]
-* **LinkedIn:** [Your LinkedIn Profile]
-* **GitHub:** [Your GitHub Profile]
+* **Email:** [anupamadak065@gmail.com]
+* **LinkedIn:** www.linkedin.com/in/anupam-adak-3601091a3
